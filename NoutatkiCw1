@@ -1,0 +1,19 @@
+Zarządzanie to 4 funkcjonalności:
+        skrót -> CRUD
+
+	dodaj - add
+	czytaj - read
+	zaktualizuj - update
+	usuń - delete
+
+System informatyczny pytania:
+
+	cel - co ma to robic?(przypadek użycia)
+	kto - kto będzie używam systemy infromatycznego?(aktor,nie jest w systemie)
+	/*/typy aktorów: człowiek, inny system, czas(abstrakcja)/*/
+	
+Praca domowa:
+"Wybrać temat narysowac rysunek diagram przypadków użycia"
+-just case
+-aktor
+-reserch
