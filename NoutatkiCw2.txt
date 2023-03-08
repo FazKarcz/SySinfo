@@ -30,3 +30,5 @@ Pojęcia(do nauki trzeba wiedzieć):
 -typy związku: (związek asocjacji(związek zabierania, związek rozszeżenia),związek generalizacja)
 -co to jest uogulnienie poszerzenie,rozszerzenie(typy związków)
 -
+W domu:
+-RESERCH O NASZYM PRJEKCIE, WYBIERZ INTERFEJS, NAPISZ PLUSY I MINUSY (Po pięć)
