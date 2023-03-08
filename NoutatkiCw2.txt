@@ -1,0 +1,32 @@
+Diagram przypadków użcia:
+po co on jest?
+
+	       {SI to} ograniczenie
+funkcjonalności 	| Dane
+(Co robi)		| (Co musi mieć)
+-Dynamika		| -Statyka
+			| -Struktura Danych
+
+		Narzędzia:
+Diagram przypadków	| Diagram klas
+urzycia(use case)       | Diagram obiektów
+(DPU (UC))
+
+Pierwsze projektowanie systemów zaczynamy od Dynamiki.
+1. SI narysuj jego cel i dla kogo jest(DPU=UC kontekstowy).
+2. 
+
+
+żeby zrobic just case'a :
+nazwa(czasownik w trybie rozkazującym, + rzeczownik)
+w use case nie używamy synonimów rzeczowników.
+
+
+Pojęcia(do nauki trzeba wiedzieć):
+-Aktor(obiekt zewnętrzny do systemu ,typy aktorów(Poprzednie notatki))
+-SI
+-Przypadek użycia(zbiór akcji,czynności dla aktora(Funkcjonalność aktora)
+-związek(powiązanie pomiędzy dwoma elementami obiektu (łączą dwa przypadki użycia/przyapdek użycia z aktorem))
+-typy związku: (związek asocjacji(związek zabierania, związek rozszeżenia),związek generalizacja)
+-co to jest uogulnienie poszerzenie,rozszerzenie(typy związków)
+-
